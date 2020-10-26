@@ -1,0 +1,4 @@
+Sitemap: https://www.a2bplumbingandelectrical.co.uk/sitemap.xml
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
